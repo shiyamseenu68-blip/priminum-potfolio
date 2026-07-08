@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { motion } from 'framer-motion';
-import { ArrowUpRight, Play, ChevronDown, ExternalLink, Download, Mail } from 'lucide-react';
+import { ArrowUpRight, ChevronDown, ExternalLink, Download, Mail } from 'lucide-react';
 
 const titles = [
   'Web Developer',
